@@ -23,7 +23,7 @@ PM_START_TEXT = """
 Hey {}, my name is {}! If you have any questions on how to use me, read /help - and then Join @JokerHarleyNews.
 
 I'm a group manager bot maintained by [this guy](tg://user?id={}).
-and am fully Open-source you can find what makes me tick [here](github.com/Yasir-siddiqui/Joker_dabot)!
+and am fully Open-source you can find what makes me tick [here](github.com/bottest123/tgbot)!
 
 You can find the list of available commands with /help.
 
