@@ -5,7 +5,7 @@ sqlalchemy
 python-telegram-bot>=11.1.0
 psycopg2-binary
 feedparser
-py-translator
+py-translate
 bs4
 lxml
 pyowm
