@@ -11,6 +11,9 @@ simple to use.
 Can be found on telegram as [Joker](https://t.me/Joker_dabot).
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bottest123/tgbot)
+
+
 Join the [news channel](https://t.me/JokerHarleynews) if you just want to stay in the loop about new features or
 announcements.
 
